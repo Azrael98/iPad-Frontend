@@ -1,0 +1,13 @@
+Getting Token from LocalStorage
+
+With the help of Token we can see user-specific notes
+
+Added Logout Functionality as well
+
+Removed all console logs
+
+CRUD Operation Done.
+
+This project is now ready to use
+
+Just need to style
